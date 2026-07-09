@@ -35,7 +35,7 @@ The dashboard was built to answer these stakeholder questions:
 | Sales by Segment | Breakdown of sales across customer segments (Consumer / Corporate / Home Office) |
 | Filters | Slicers for Region, Category, Segment, and Date range |
 
-[dashboard_demo](https://github.com/DrJay-ux/resources/blob/main/superstore%20dashboard.jpeg?raw=true)
+![dashboard_demo](https://github.com/DrJay-ux/resources/blob/main/dashboard-overview.png?raw=true)
 
 ## 🔑 Key Insights
 
