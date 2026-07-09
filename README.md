@@ -1,12 +1,11 @@
-# superstore-sales-dashboard
-https://github.com/DrJay-ux/resources/blob/main/superstore.gif
+
 # Superstore Sales & Profitability Dashboard (Power BI)
 
 An interactive Power BI dashboard analyzing sales, profit, and returns for a
 retail "Superstore" dataset — built to answer a specific set of business
 questions from a stakeholder brief (see below).
 
-![Dashboard Demo][(https://github.com/DrJay-ux/resources/blob/main/superstore.gif)]
+![Dashboard Demo](https://github.com/DrJay-ux/resources/blob/main/superstore.gif?raw=true) 
 
 ## 📋 Business Requirements
 
@@ -56,4 +55,4 @@ The dashboard was built to answer these stakeholder questions:
 > a side effect of how the DAX time-intelligence measure resolves given the
 > report's date slicer spans the full 2020–2023 range.
 
-## 📁 Repository Structure
+
